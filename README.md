@@ -77,7 +77,7 @@ The system analyzes gas emissions from food and classifies it into:
 
 *Add your images here*
 
-![System Setup](images/setup.jpg)
+![System Setup](E:\images)
 
 ---
 
@@ -124,8 +124,9 @@ Feel free to fork this repo and improve the system!
 
 ## 📬 Contact
 
-[Your Name]
-[Your LinkedIn]
-[Your Email]
+[Sarah Mahmoud Mosbah]
+[LinkedIn:Sarah Alsawalhi]
+[sarahalsawalhy@gmail.com
+]
 
 ---
