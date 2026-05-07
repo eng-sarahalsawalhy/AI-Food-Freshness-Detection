@@ -77,7 +77,7 @@ The system analyzes gas emissions from food and classifies it into:
 
 *Add your images here*
 
-![System Setup](E:\images)
+![System Setup](images)
 
 ---
 
