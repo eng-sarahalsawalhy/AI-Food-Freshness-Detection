@@ -75,7 +75,7 @@ The system analyzes gas emissions from food and classifies it into:
 
 ## 📸 Demo
 
-*Add your images here*
+
 
 ![System Setup](images)
 
