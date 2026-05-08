@@ -46,6 +46,15 @@ The system analyzes gas emissions from food and classifies it into:
    * Buzzer alert
 
 ---
+## 🧠 Embedded AI Model
+
+The Decision Tree model was trained in Python and exported to Arduino using an optimized header file:
+
+- File: `model_uno_optimized.h`
+- Format: Embedded C++ inference code
+- Framework: Eloquent Arduino ML
+
+This allows real-time predictions directly on the microcontroller without external computation.
 
 ## 🧪 Results
 
